@@ -1,4 +1,4 @@
-### React Module with top Menu
+### React Modules with top Menu
 
 ### Implement gh-pages
 
