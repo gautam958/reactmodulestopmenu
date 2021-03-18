@@ -13,9 +13,10 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 #root
 "homepage": "http://gautam958.github.io/reactmodulestopmenu",
+
 #scripts
- "predeploy": "npm run build",
- "deploy": "gh-pages -d build"
+"predeploy": "npm run build",
+"deploy": "gh-pages -d build"
 
 #on Terminal npm run deploy
 
