@@ -12,13 +12,18 @@ Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 #root
+
 "homepage": "http://gautam958.github.io/reactmodulestopmenu",
 
 #scripts
+
 "predeploy": "npm run build",
 "deploy": "gh-pages -d build"
 
-#on Terminal npm run deploy
+#Deploy to gh-page under gh-pages branch only for build folder
+(note:- check .gitignore file and remove /build for deployement on github page)
+
+npm run deploy
 
 #browse the app in below link
 https://gautam958.github.io/reactmodulestopmenu/
