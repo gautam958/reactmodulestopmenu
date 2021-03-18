@@ -2,7 +2,7 @@
   "name": "reactmodulestopmenu",
   "version": "1.0.0.1",
   "private": false,
-  "homepage": "http://gautam958.github.io/reactmodulestopmenu/",
+  "homepage": "http://gautam958.github.io/reactmodulestopmenu",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.9",
     "@testing-library/react": "^11.2.5",
